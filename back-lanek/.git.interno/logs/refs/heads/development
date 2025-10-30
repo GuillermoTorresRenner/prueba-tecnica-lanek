@@ -1,0 +1,17 @@
+0000000000000000000000000000000000000000 c681da7f6d9d7313d789530b657f7aac75df56fe gt.tchile <guillermo.torres@tchile.com> 1761767920 -0300	branch: Created from HEAD
+c681da7f6d9d7313d789530b657f7aac75df56fe d0ff1f146764861b304dae14512d41bbafe75d9a gt.tchile <guillermo.torres@tchile.com> 1761774479 -0300	commit: emissions models added
+d0ff1f146764861b304dae14512d41bbafe75d9a 78a83a2ab76f4ada484bbbf3060793bdbc6e5e88 gt.tchile <guillermo.torres@tchile.com> 1761776362 -0300	commit: add emmissions functions
+78a83a2ab76f4ada484bbbf3060793bdbc6e5e88 c962bf421991fe35fcd5f604cadcc2ee8134878d gt.tchile <guillermo.torres@tchile.com> 1761776947 -0300	commit: add swagger docs
+c962bf421991fe35fcd5f604cadcc2ee8134878d 35bf32aa889f474aa220c81e9c10be1ddc927440 gt.tchile <guillermo.torres@tchile.com> 1761777522 -0300	commit: add delete an put methods to emission controller
+35bf32aa889f474aa220c81e9c10be1ddc927440 22a494bb00dd10a507fa13ed5eb906157027bd4e gt.tchile <guillermo.torres@tchile.com> 1761777930 -0300	commit: add data seeders for demo
+22a494bb00dd10a507fa13ed5eb906157027bd4e 734f74ee3c70da5eda2e135c6b7d5f633df21ddb gt.tchile <guillermo.torres@tchile.com> 1761779160 -0300	commit: create DockerFile
+734f74ee3c70da5eda2e135c6b7d5f633df21ddb 1fb0b457f7e835b682c6e263024c4eeb455c1e54 gt.tchile <guillermo.torres@tchile.com> 1761779268 -0300	commit: change to prod mode
+1fb0b457f7e835b682c6e263024c4eeb455c1e54 26778cbb1239f45e2b037172a8b77019e9408f17 gt.tchile <guillermo.torres@tchile.com> 1761780611 -0300	merge main: Fast-forward
+26778cbb1239f45e2b037172a8b77019e9408f17 888187fe63477cfdab60556ff55cbe2963ad300c gt.tchile <guillermo.torres@tchile.com> 1761782693 -0300	commit: add me endpoint
+888187fe63477cfdab60556ff55cbe2963ad300c 9a43ebbb3713aa3e491bf1bab3238b4d24c29988 gt.tchile <guillermo.torres@tchile.com> 1761784406 -0300	commit: add CORS policies
+9a43ebbb3713aa3e491bf1bab3238b4d24c29988 59bae60734731856c6bf1d16635d8b3c42e8f011 gt.tchile <guillermo.torres@tchile.com> 1761791879 -0300	commit: add title and description fields to emission table
+59bae60734731856c6bf1d16635d8b3c42e8f011 f932e54b152e3d570a5994702e2b5aab69bac3d5 gt.tchile <guillermo.torres@tchile.com> 1761792561 -0300	commit: add get rout for emission-source
+f932e54b152e3d570a5994702e2b5aab69bac3d5 babd7d505835ccb7bc49b911c52754084edc0395 gt.tchile <guillermo.torres@tchile.com> 1761798832 -0300	commit: add fingerPrint complete
+babd7d505835ccb7bc49b911c52754084edc0395 444d429962791808a96a3d16ea0f756131445244 gt.tchile <guillermo.torres@tchile.com> 1761801550 -0300	commit: fix emission
+444d429962791808a96a3d16ea0f756131445244 4fbd39f536409aedb9462851ce2acf4370dd8302 gt.tchile <guillermo.torres@tchile.com> 1761805622 -0300	commit: fix emission cors
+4fbd39f536409aedb9462851ce2acf4370dd8302 d587dd282ea13f49104b8843a67285cdf59a2601 gt.tchile <guillermo.torres@tchile.com> 1761805967 -0300	commit: add delete endpoint for emission

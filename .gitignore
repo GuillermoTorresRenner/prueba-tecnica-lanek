@@ -1,0 +1,45 @@
+# Node
+node_modules/
+.next/
+
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+
+# Docker
+postgres_data/
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Otros
+*.sqlite3
+*.db
+*.bak
+*.swp
+
+# Documentos
+instructions.pdf
+
+# Frontend build
+front-lanek/.next/
+front-lanek/node_modules/
+
+# Backend build
+back-lanek/__pycache__/
+back-lanek/src/__pycache__/
+back-lanek/venv/
+
+# Adminer
+adminer/

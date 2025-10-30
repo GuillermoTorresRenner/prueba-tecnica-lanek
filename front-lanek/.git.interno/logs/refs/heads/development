@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 3b24fc92525edb317f6630ce1c8369c2dfe00ca5 gt.tchile <guillermo.torres@tchile.com> 1761780766 -0300	branch: Created from HEAD
+3b24fc92525edb317f6630ce1c8369c2dfe00ca5 5b71ac9ffaf462a21775cee716c8060bdff5c709 gt.tchile <guillermo.torres@tchile.com> 1761784843 -0300	commit: add login and register base
+5b71ac9ffaf462a21775cee716c8060bdff5c709 707731538d15a1694708f1fe90dd4deeb607d7af gt.tchile <guillermo.torres@tchile.com> 1761794295 -0300	commit: add graph
+707731538d15a1694708f1fe90dd4deeb607d7af 4f4ad663ea117bf15e87be31d3ec4a4330cd2b28 gt.tchile <guillermo.torres@tchile.com> 1761795135 -0300	commit: add table and cards for fingerprints
+4f4ad663ea117bf15e87be31d3ec4a4330cd2b28 3664cd8f087f262ed5da3ec64791604ecfd8ff44 gt.tchile <guillermo.torres@tchile.com> 1761805646 -0300	commit: fix cors
+3664cd8f087f262ed5da3ec64791604ecfd8ff44 e0558d3ec16da728060b2bc497095b58732f470b gt.tchile <guillermo.torres@tchile.com> 1761807110 -0300	commit: logout added
+e0558d3ec16da728060b2bc497095b58732f470b 932143214cc6b9c8fb8b2b3f2edc0db0c5db2b10 gt.tchile <guillermo.torres@tchile.com> 1761808293 -0300	commit: Fija la URL del backend en localhost para el frontend
+932143214cc6b9c8fb8b2b3f2edc0db0c5db2b10 d5069df4c2664613ee8f0d733203ae39de171f87 gt.tchile <guillermo.torres@tchile.com> 1761808352 -0300	commit: Actualiza submódulo front-lanek
